@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B60D5E53-0649-47FD-87D5-B71F7DFAF4F0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Hackathon</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E48692F294FFB4F2A1649E446055498AA2980C33</key>
+		<string>ollyhicks.me:disrupteuhackathon/plantApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Hackathon/Hackathon.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E48692F294FFB4F2A1649E446055498AA2980C33</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ollyhicks.me:disrupteuhackathon/plantApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E48692F294FFB4F2A1649E446055498AA2980C33</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E48692F294FFB4F2A1649E446055498AA2980C33</string>
+			<key>IDESourceControlWCCName</key>
+			<string>plantApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
